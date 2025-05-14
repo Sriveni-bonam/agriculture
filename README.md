@@ -34,5 +34,38 @@ This project is a **Frontend-based Agricultural Website** built with **HTML, CSS
 
 ---
 
+## 📸 OUTPUT SCREENSHOTS
+
+### 🚀 Welcome Page
+![Welcome Page](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/start%20page.png)
+
+### 🏠 Home Page
+![Home Page](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/home%20page.png)
+
+### 🌾 Crop Selection
+![Crop Selection](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/crop%20selection.png)
+
+### 🌦️ Weather Predictor
+![Weather](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/weather.png)
+
+### 🧪 Fertilizer Calculator
+![Fertilizer Calculator](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/fertilizer%20calculator.png)
+
+### 🐛 Pesticides Mart
+![Pesticides Mart](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/pesticides%20mart.png)
+
+### 🌱 Seeds Mart
+![Seeds Mart](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/schemes.png)
+
+### 🏛️ Schemes Page
+![Schemes](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/schemes.png)
+
+### 📝 Scheme Description
+![Scheme Description](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/Scheme%20desc.png)
+
+### ❓ FAQ Page
+![FAQ](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/faq.png)
+
+
 
 
