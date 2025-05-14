@@ -34,6 +34,12 @@ This project is a **Frontend-based Agricultural Website** built with **HTML, CSS
 
 ---
 
+## PROJECT LINK
+[🔗 link](https://sriveni-bonam.github.io/agriculture/Agriculture/intro.html)
+
+
+---
+
 ## 📸 OUTPUT SCREENSHOTS
 
 ### 🚀 Welcome Page
@@ -55,7 +61,7 @@ This project is a **Frontend-based Agricultural Website** built with **HTML, CSS
 ![Pesticides Mart](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/pesticides%20mart.png)
 
 ### 🌱 Seeds Mart
-![Seeds Mart](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/schemes.png)
+![Seeds Mart](https://github.com/Sriveni-bonam/agriculture/blob/25196d62ea8e97a2fb467cd1160b617403e046c7/Result/seeds%20mart.png)
 
 ### 🏛️ Schemes Page
 ![Schemes](https://github.com/Sriveni-bonam/agriculture/blob/a700d41be078ecd4b69ff030a6d2cc746c92d298/Result/schemes.png)
